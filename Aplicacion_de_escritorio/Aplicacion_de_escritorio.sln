@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicacion_de_escritorio", "Aplicacion_de_escritorio.csproj", "{C705C375-2E25-4391-95F7-7CBE3A0F55B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C705C375-2E25-4391-95F7-7CBE3A0F55B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C705C375-2E25-4391-95F7-7CBE3A0F55B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C705C375-2E25-4391-95F7-7CBE3A0F55B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C705C375-2E25-4391-95F7-7CBE3A0F55B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CD923D0-538C-4ED8-9564-0C6E62FD8C30}
+	EndGlobalSection
+EndGlobal

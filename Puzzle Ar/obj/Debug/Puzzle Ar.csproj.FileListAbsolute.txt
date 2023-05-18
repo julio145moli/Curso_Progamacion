@@ -1,0 +1,11 @@
+D:\Diego Chinchilla\Puzzle Ar\bin\Debug\Puzzle Ar.exe.config
+D:\Diego Chinchilla\Puzzle Ar\bin\Debug\Puzzle Ar.exe
+D:\Diego Chinchilla\Puzzle Ar\bin\Debug\Puzzle Ar.pdb
+D:\Diego Chinchilla\Puzzle Ar\obj\Debug\Puzzle Ar.csproj.AssemblyReference.cache
+D:\Diego Chinchilla\Puzzle Ar\obj\Debug\Puzzle Ar.csproj.SuggestedBindingRedirects.cache
+D:\Diego Chinchilla\Puzzle Ar\obj\Debug\Puzzle_Ar.Properties.Resources.resources
+D:\Diego Chinchilla\Puzzle Ar\obj\Debug\Puzzle Ar.csproj.GenerateResource.cache
+D:\Diego Chinchilla\Puzzle Ar\obj\Debug\Puzzle Ar.csproj.CoreCompileInputs.cache
+D:\Diego Chinchilla\Puzzle Ar\obj\Debug\Puzzle Ar.exe
+D:\Diego Chinchilla\Puzzle Ar\obj\Debug\Puzzle Ar.pdb
+D:\Diego Chinchilla\Puzzle Ar\obj\Debug\Puzzle_Ar.Form1.resources

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{E3A17562-AB9F-4989-9127-7A30CC8C0F14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{4EC40162-DC4A-461A-9889-E52D750E4FE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentacion", "Presentacion\Presentacion.csproj", "{49B5C454-2192-4D9D-8A11-C60CAC2A31F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3A17562-AB9F-4989-9127-7A30CC8C0F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3A17562-AB9F-4989-9127-7A30CC8C0F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3A17562-AB9F-4989-9127-7A30CC8C0F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3A17562-AB9F-4989-9127-7A30CC8C0F14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EC40162-DC4A-461A-9889-E52D750E4FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EC40162-DC4A-461A-9889-E52D750E4FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EC40162-DC4A-461A-9889-E52D750E4FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EC40162-DC4A-461A-9889-E52D750E4FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49B5C454-2192-4D9D-8A11-C60CAC2A31F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B5C454-2192-4D9D-8A11-C60CAC2A31F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B5C454-2192-4D9D-8A11-C60CAC2A31F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B5C454-2192-4D9D-8A11-C60CAC2A31F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FD6EB88-E44B-4572-A730-459C84107523}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+D:\Diego Chinchilla\AgendaTelefonica\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Diego Chinchilla\AgendaTelefonica\Presentacion\bin\Debug\Presentacion.exe
+D:\Diego Chinchilla\AgendaTelefonica\Presentacion\bin\Debug\Presentacion.pdb
+D:\Diego Chinchilla\AgendaTelefonica\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Diego Chinchilla\AgendaTelefonica\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+D:\Diego Chinchilla\AgendaTelefonica\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Diego Chinchilla\AgendaTelefonica\Presentacion\obj\Debug\Presentacion.exe
+D:\Diego Chinchilla\AgendaTelefonica\Presentacion\obj\Debug\Presentacion.pdb
+D:\Diego Chinchilla\AgendaTelefonica\Presentacion\bin\Debug\Logica.dll
+D:\Diego Chinchilla\AgendaTelefonica\Presentacion\bin\Debug\Datos.dll
+D:\Diego Chinchilla\AgendaTelefonica\Presentacion\bin\Debug\Logica.pdb
+D:\Diego Chinchilla\AgendaTelefonica\Presentacion\bin\Debug\Datos.pdb
+D:\Diego Chinchilla\AgendaTelefonica\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete

@@ -1,0 +1,22 @@
+D:\UNICESAR-2023\P3\GRUPO-02\AgendaV02\Logica\bin\Debug\Logica.dll
+D:\UNICESAR-2023\P3\GRUPO-02\AgendaV02\Logica\bin\Debug\Logica.pdb
+D:\UNICESAR-2023\P3\GRUPO-02\AgendaV02\Logica\bin\Debug\Datos.dll
+D:\UNICESAR-2023\P3\GRUPO-02\AgendaV02\Logica\bin\Debug\Entidades.dll
+D:\UNICESAR-2023\P3\GRUPO-02\AgendaV02\Logica\bin\Debug\Datos.pdb
+D:\UNICESAR-2023\P3\GRUPO-02\AgendaV02\Logica\bin\Debug\Entidades.pdb
+D:\UNICESAR-2023\P3\GRUPO-02\AgendaV02\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+D:\UNICESAR-2023\P3\GRUPO-02\AgendaV02\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\UNICESAR-2023\P3\GRUPO-02\AgendaV02\Logica\obj\Debug\Logica.csproj.CopyComplete
+D:\UNICESAR-2023\P3\GRUPO-02\AgendaV02\Logica\obj\Debug\Logica.dll
+D:\UNICESAR-2023\P3\GRUPO-02\AgendaV02\Logica\obj\Debug\Logica.pdb
+C:\Users\juand\Documents\Acceso directo\Material Juan\AgendaV02\Logica\bin\Debug\Logica.dll
+C:\Users\juand\Documents\Acceso directo\Material Juan\AgendaV02\Logica\bin\Debug\Logica.pdb
+C:\Users\juand\Documents\Acceso directo\Material Juan\AgendaV02\Logica\bin\Debug\Datos.dll
+C:\Users\juand\Documents\Acceso directo\Material Juan\AgendaV02\Logica\bin\Debug\Entidades.dll
+C:\Users\juand\Documents\Acceso directo\Material Juan\AgendaV02\Logica\bin\Debug\Datos.pdb
+C:\Users\juand\Documents\Acceso directo\Material Juan\AgendaV02\Logica\bin\Debug\Entidades.pdb
+C:\Users\juand\Documents\Acceso directo\Material Juan\AgendaV02\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\juand\Documents\Acceso directo\Material Juan\AgendaV02\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\juand\Documents\Acceso directo\Material Juan\AgendaV02\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\juand\Documents\Acceso directo\Material Juan\AgendaV02\Logica\obj\Debug\Logica.dll
+C:\Users\juand\Documents\Acceso directo\Material Juan\AgendaV02\Logica\obj\Debug\Logica.pdb

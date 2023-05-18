@@ -1,0 +1,11 @@
+D:\Diego Chinchilla\ALCALDIA\bin\Debug\ALCALDIA.exe.config
+D:\Diego Chinchilla\ALCALDIA\bin\Debug\ALCALDIA.exe
+D:\Diego Chinchilla\ALCALDIA\bin\Debug\ALCALDIA.pdb
+D:\Diego Chinchilla\ALCALDIA\obj\Debug\ALCALDIA.csproj.AssemblyReference.cache
+D:\Diego Chinchilla\ALCALDIA\obj\Debug\ALCALDIA.csproj.SuggestedBindingRedirects.cache
+D:\Diego Chinchilla\ALCALDIA\obj\Debug\ALCALDIA.Form1.resources
+D:\Diego Chinchilla\ALCALDIA\obj\Debug\ALCALDIA.Properties.Resources.resources
+D:\Diego Chinchilla\ALCALDIA\obj\Debug\ALCALDIA.csproj.GenerateResource.cache
+D:\Diego Chinchilla\ALCALDIA\obj\Debug\ALCALDIA.csproj.CoreCompileInputs.cache
+D:\Diego Chinchilla\ALCALDIA\obj\Debug\ALCALDIA.exe
+D:\Diego Chinchilla\ALCALDIA\obj\Debug\ALCALDIA.pdb

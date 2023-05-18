@@ -1,0 +1,11 @@
+D:\Diego Chinchilla\Ventana\bin\Debug\Ventana.exe.config
+D:\Diego Chinchilla\Ventana\bin\Debug\Ventana.exe
+D:\Diego Chinchilla\Ventana\bin\Debug\Ventana.pdb
+D:\Diego Chinchilla\Ventana\obj\Debug\Ventana.csproj.AssemblyReference.cache
+D:\Diego Chinchilla\Ventana\obj\Debug\Ventana.csproj.SuggestedBindingRedirects.cache
+D:\Diego Chinchilla\Ventana\obj\Debug\Ventana.csproj.GenerateResource.cache
+D:\Diego Chinchilla\Ventana\obj\Debug\Ventana.csproj.CoreCompileInputs.cache
+D:\Diego Chinchilla\Ventana\obj\Debug\Ventana.exe
+D:\Diego Chinchilla\Ventana\obj\Debug\Ventana.pdb
+D:\Diego Chinchilla\Ventana\obj\Debug\Ventana.A.resources
+D:\Diego Chinchilla\Ventana\obj\Debug\Ventana.Form2.resources

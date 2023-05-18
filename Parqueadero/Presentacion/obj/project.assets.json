@@ -1,0 +1,137 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Datos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Datos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Datos.dll": {}
+        }
+      },
+      "Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entity.dll": {}
+        }
+      },
+      "Logica/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Datos": "1.0.0",
+          "Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Logica.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Logica.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Datos/1.0.0": {
+      "type": "project",
+      "path": "../Datos/Datos.csproj",
+      "msbuildProject": "../Datos/Datos.csproj"
+    },
+    "Entity/1.0.0": {
+      "type": "project",
+      "path": "../Entity/Entity.csproj",
+      "msbuildProject": "../Entity/Entity.csproj"
+    },
+    "Logica/1.0.0": {
+      "type": "project",
+      "path": "../Logica/Logica.csproj",
+      "msbuildProject": "../Logica/Logica.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Entity >= 1.0.0",
+      "Logica >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ESTUDIANTES\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Diego Chinchilla\\Parqueadero\\Presentacion\\Presentacion.csproj",
+      "projectName": "Presentacion",
+      "projectPath": "D:\\Diego Chinchilla\\Parqueadero\\Presentacion\\Presentacion.csproj",
+      "packagesPath": "C:\\Users\\ESTUDIANTES\\.nuget\\packages\\",
+      "outputPath": "D:\\Diego Chinchilla\\Parqueadero\\Presentacion\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\ESTUDIANTES\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "D:\\Diego Chinchilla\\Parqueadero\\Entity\\Entity.csproj": {
+              "projectPath": "D:\\Diego Chinchilla\\Parqueadero\\Entity\\Entity.csproj"
+            },
+            "D:\\Diego Chinchilla\\Parqueadero\\Logica\\Logica.csproj": {
+              "projectPath": "D:\\Diego Chinchilla\\Parqueadero\\Logica\\Logica.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

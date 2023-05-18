@@ -1,0 +1,13 @@
+D:\Diego Chinchilla\AgendaTelefonica1\Pruebas\obj\Debug\Pruebas.csproj.AssemblyReference.cache
+D:\Diego Chinchilla\AgendaTelefonica1\Pruebas\obj\Debug\Pruebas.csproj.SuggestedBindingRedirects.cache
+D:\Diego Chinchilla\AgendaTelefonica1\Pruebas\obj\Debug\Pruebas.csproj.CoreCompileInputs.cache
+D:\Diego Chinchilla\AgendaTelefonica1\Pruebas\bin\Debug\Pruebas.exe.config
+D:\Diego Chinchilla\AgendaTelefonica1\Pruebas\bin\Debug\Pruebas.exe
+D:\Diego Chinchilla\AgendaTelefonica1\Pruebas\bin\Debug\Pruebas.pdb
+D:\Diego Chinchilla\AgendaTelefonica1\Pruebas\bin\Debug\Datos.dll
+D:\Diego Chinchilla\AgendaTelefonica1\Pruebas\bin\Debug\Entidades.dll
+D:\Diego Chinchilla\AgendaTelefonica1\Pruebas\bin\Debug\Datos.pdb
+D:\Diego Chinchilla\AgendaTelefonica1\Pruebas\bin\Debug\Entidades.pdb
+D:\Diego Chinchilla\AgendaTelefonica1\Pruebas\obj\Debug\Pruebas.csproj.CopyComplete
+D:\Diego Chinchilla\AgendaTelefonica1\Pruebas\obj\Debug\Pruebas.exe
+D:\Diego Chinchilla\AgendaTelefonica1\Pruebas\obj\Debug\Pruebas.pdb

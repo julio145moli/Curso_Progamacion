@@ -1,0 +1,33 @@
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Logica\bin\Debug\Logica.dll
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Logica\bin\Debug\Logica.pdb
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Logica\obj\Debug\Logica.dll
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Logica\obj\Debug\Logica.pdb
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Logica\bin\Debug\Datos.dll
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Logica\bin\Debug\Entidades.dll
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Logica\bin\Debug\Datos.pdb
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Logica\bin\Debug\Entidades.pdb
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Logica\bin\Debug\Logica.dll
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Logica\bin\Debug\Logica.pdb
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Logica\bin\Debug\Datos.dll
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Logica\bin\Debug\Entidades.dll
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Logica\bin\Debug\Datos.pdb
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Logica\bin\Debug\Entidades.pdb
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Logica\obj\Debug\Logica.dll
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Logica\obj\Debug\Logica.pdb
+D:\Diego Chinchilla\AgendaTelefonica1\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+D:\Diego Chinchilla\AgendaTelefonica1\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\Diego Chinchilla\AgendaTelefonica1\Logica\obj\Debug\Logica.dll
+D:\Diego Chinchilla\AgendaTelefonica1\Logica\obj\Debug\Logica.pdb
+D:\Diego Chinchilla\AgendaTelefonica1\Logica\bin\Debug\Logica.dll
+D:\Diego Chinchilla\AgendaTelefonica1\Logica\bin\Debug\Logica.pdb
+D:\Diego Chinchilla\AgendaTelefonica1\Logica\bin\Debug\Datos.dll
+D:\Diego Chinchilla\AgendaTelefonica1\Logica\bin\Debug\Entidades.dll
+D:\Diego Chinchilla\AgendaTelefonica1\Logica\bin\Debug\Datos.pdb
+D:\Diego Chinchilla\AgendaTelefonica1\Logica\bin\Debug\Entidades.pdb
+D:\Diego Chinchilla\AgendaTelefonica1\Logica\obj\Debug\Logica.csproj.CopyComplete

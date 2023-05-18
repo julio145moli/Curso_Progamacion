@@ -1,0 +1,9 @@
+D:\Diego Chinchilla\AgendaTelefonica\Logica\bin\Debug\Logica.dll
+D:\Diego Chinchilla\AgendaTelefonica\Logica\bin\Debug\Logica.pdb
+D:\Diego Chinchilla\AgendaTelefonica\Logica\bin\Debug\Datos.dll
+D:\Diego Chinchilla\AgendaTelefonica\Logica\bin\Debug\Datos.pdb
+D:\Diego Chinchilla\AgendaTelefonica\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+D:\Diego Chinchilla\AgendaTelefonica\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\Diego Chinchilla\AgendaTelefonica\Logica\obj\Debug\Logica.csproj.CopyComplete
+D:\Diego Chinchilla\AgendaTelefonica\Logica\obj\Debug\Logica.dll
+D:\Diego Chinchilla\AgendaTelefonica\Logica\obj\Debug\Logica.pdb

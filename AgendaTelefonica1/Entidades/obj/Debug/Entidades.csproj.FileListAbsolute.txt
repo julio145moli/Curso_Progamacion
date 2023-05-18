@@ -1,0 +1,18 @@
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Entidades\bin\Debug\Entidades.dll
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Entidades\bin\Debug\Entidades.pdb
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Entidades\obj\Debug\Entidades.dll
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Entidades\obj\Debug\Entidades.pdb
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Entidades\bin\Debug\Entidades.dll
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Entidades\obj\Debug\Entidades.dll
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Entidades\obj\Debug\Entidades.pdb
+D:\Diego Chinchilla\AgendaTelefonica1\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\Diego Chinchilla\AgendaTelefonica1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Diego Chinchilla\AgendaTelefonica1\Entidades\bin\Debug\Entidades.dll
+D:\Diego Chinchilla\AgendaTelefonica1\Entidades\bin\Debug\Entidades.pdb
+D:\Diego Chinchilla\AgendaTelefonica1\Entidades\obj\Debug\Entidades.dll
+D:\Diego Chinchilla\AgendaTelefonica1\Entidades\obj\Debug\Entidades.pdb

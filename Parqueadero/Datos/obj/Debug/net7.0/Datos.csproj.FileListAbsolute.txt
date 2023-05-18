@@ -1,0 +1,45 @@
+C:\Users\yesit\source\repos\Parqueadero\Datos\bin\Debug\net7.0\Datos.deps.json
+C:\Users\yesit\source\repos\Parqueadero\Datos\bin\Debug\net7.0\Datos.dll
+C:\Users\yesit\source\repos\Parqueadero\Datos\bin\Debug\net7.0\Datos.pdb
+C:\Users\yesit\source\repos\Parqueadero\Datos\bin\Debug\net7.0\Entity.dll
+C:\Users\yesit\source\repos\Parqueadero\Datos\bin\Debug\net7.0\Entity.pdb
+C:\Users\yesit\source\repos\Parqueadero\Datos\obj\Debug\net7.0\Datos.csproj.AssemblyReference.cache
+C:\Users\yesit\source\repos\Parqueadero\Datos\obj\Debug\net7.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yesit\source\repos\Parqueadero\Datos\obj\Debug\net7.0\Datos.AssemblyInfoInputs.cache
+C:\Users\yesit\source\repos\Parqueadero\Datos\obj\Debug\net7.0\Datos.AssemblyInfo.cs
+C:\Users\yesit\source\repos\Parqueadero\Datos\obj\Debug\net7.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\yesit\source\repos\Parqueadero\Datos\obj\Debug\net7.0\Datos.csproj.CopyComplete
+C:\Users\yesit\source\repos\Parqueadero\Datos\obj\Debug\net7.0\Datos.dll
+C:\Users\yesit\source\repos\Parqueadero\Datos\obj\Debug\net7.0\refint\Datos.dll
+C:\Users\yesit\source\repos\Parqueadero\Datos\obj\Debug\net7.0\Datos.pdb
+C:\Users\yesit\source\repos\Parqueadero\Datos\obj\Debug\net7.0\ref\Datos.dll
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Datos\bin\Debug\net7.0\Datos.deps.json
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Datos\bin\Debug\net7.0\Datos.dll
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Datos\bin\Debug\net7.0\Datos.pdb
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Datos\bin\Debug\net7.0\Entity.dll
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Datos\bin\Debug\net7.0\Entity.pdb
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Datos\obj\Debug\net7.0\Datos.csproj.AssemblyReference.cache
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Datos\obj\Debug\net7.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Datos\obj\Debug\net7.0\Datos.AssemblyInfoInputs.cache
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Datos\obj\Debug\net7.0\Datos.AssemblyInfo.cs
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Datos\obj\Debug\net7.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Datos\obj\Debug\net7.0\Datos.csproj.CopyComplete
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Datos\obj\Debug\net7.0\Datos.dll
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Datos\obj\Debug\net7.0\refint\Datos.dll
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Datos\obj\Debug\net7.0\Datos.pdb
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Datos\obj\Debug\net7.0\ref\Datos.dll
+D:\Diego Chinchilla\Parqueadero\Datos\bin\Debug\net7.0\Datos.deps.json
+D:\Diego Chinchilla\Parqueadero\Datos\bin\Debug\net7.0\Datos.dll
+D:\Diego Chinchilla\Parqueadero\Datos\bin\Debug\net7.0\Datos.pdb
+D:\Diego Chinchilla\Parqueadero\Datos\bin\Debug\net7.0\Entity.dll
+D:\Diego Chinchilla\Parqueadero\Datos\bin\Debug\net7.0\Entity.pdb
+D:\Diego Chinchilla\Parqueadero\Datos\obj\Debug\net7.0\Datos.csproj.AssemblyReference.cache
+D:\Diego Chinchilla\Parqueadero\Datos\obj\Debug\net7.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diego Chinchilla\Parqueadero\Datos\obj\Debug\net7.0\Datos.AssemblyInfoInputs.cache
+D:\Diego Chinchilla\Parqueadero\Datos\obj\Debug\net7.0\Datos.AssemblyInfo.cs
+D:\Diego Chinchilla\Parqueadero\Datos\obj\Debug\net7.0\Datos.csproj.CoreCompileInputs.cache
+D:\Diego Chinchilla\Parqueadero\Datos\obj\Debug\net7.0\Datos.csproj.CopyComplete
+D:\Diego Chinchilla\Parqueadero\Datos\obj\Debug\net7.0\Datos.dll
+D:\Diego Chinchilla\Parqueadero\Datos\obj\Debug\net7.0\refint\Datos.dll
+D:\Diego Chinchilla\Parqueadero\Datos\obj\Debug\net7.0\Datos.pdb
+D:\Diego Chinchilla\Parqueadero\Datos\obj\Debug\net7.0\ref\Datos.dll

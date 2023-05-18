@@ -1,0 +1,36 @@
+C:\Users\yesit\source\repos\Parqueadero\Entity\bin\Debug\net7.0\Entity.deps.json
+C:\Users\yesit\source\repos\Parqueadero\Entity\bin\Debug\net7.0\Entity.dll
+C:\Users\yesit\source\repos\Parqueadero\Entity\bin\Debug\net7.0\Entity.pdb
+C:\Users\yesit\source\repos\Parqueadero\Entity\obj\Debug\net7.0\Entity.csproj.AssemblyReference.cache
+C:\Users\yesit\source\repos\Parqueadero\Entity\obj\Debug\net7.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yesit\source\repos\Parqueadero\Entity\obj\Debug\net7.0\Entity.AssemblyInfoInputs.cache
+C:\Users\yesit\source\repos\Parqueadero\Entity\obj\Debug\net7.0\Entity.AssemblyInfo.cs
+C:\Users\yesit\source\repos\Parqueadero\Entity\obj\Debug\net7.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\yesit\source\repos\Parqueadero\Entity\obj\Debug\net7.0\Entity.dll
+C:\Users\yesit\source\repos\Parqueadero\Entity\obj\Debug\net7.0\refint\Entity.dll
+C:\Users\yesit\source\repos\Parqueadero\Entity\obj\Debug\net7.0\Entity.pdb
+C:\Users\yesit\source\repos\Parqueadero\Entity\obj\Debug\net7.0\ref\Entity.dll
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Entity\bin\Debug\net7.0\Entity.deps.json
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Entity\bin\Debug\net7.0\Entity.dll
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Entity\bin\Debug\net7.0\Entity.pdb
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Entity\obj\Debug\net7.0\Entity.csproj.AssemblyReference.cache
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Entity\obj\Debug\net7.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Entity\obj\Debug\net7.0\Entity.AssemblyInfoInputs.cache
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Entity\obj\Debug\net7.0\Entity.AssemblyInfo.cs
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Entity\obj\Debug\net7.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Entity\obj\Debug\net7.0\Entity.dll
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Entity\obj\Debug\net7.0\refint\Entity.dll
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Entity\obj\Debug\net7.0\Entity.pdb
+C:\Users\57322\Documents\Programacion\PROGRAMACION3\ProyectoN°1\Parqueadero\Entity\obj\Debug\net7.0\ref\Entity.dll
+D:\Diego Chinchilla\Parqueadero\Entity\bin\Debug\net7.0\Entity.deps.json
+D:\Diego Chinchilla\Parqueadero\Entity\bin\Debug\net7.0\Entity.dll
+D:\Diego Chinchilla\Parqueadero\Entity\bin\Debug\net7.0\Entity.pdb
+D:\Diego Chinchilla\Parqueadero\Entity\obj\Debug\net7.0\Entity.csproj.AssemblyReference.cache
+D:\Diego Chinchilla\Parqueadero\Entity\obj\Debug\net7.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diego Chinchilla\Parqueadero\Entity\obj\Debug\net7.0\Entity.AssemblyInfoInputs.cache
+D:\Diego Chinchilla\Parqueadero\Entity\obj\Debug\net7.0\Entity.AssemblyInfo.cs
+D:\Diego Chinchilla\Parqueadero\Entity\obj\Debug\net7.0\Entity.csproj.CoreCompileInputs.cache
+D:\Diego Chinchilla\Parqueadero\Entity\obj\Debug\net7.0\Entity.dll
+D:\Diego Chinchilla\Parqueadero\Entity\obj\Debug\net7.0\refint\Entity.dll
+D:\Diego Chinchilla\Parqueadero\Entity\obj\Debug\net7.0\Entity.pdb
+D:\Diego Chinchilla\Parqueadero\Entity\obj\Debug\net7.0\ref\Entity.dll

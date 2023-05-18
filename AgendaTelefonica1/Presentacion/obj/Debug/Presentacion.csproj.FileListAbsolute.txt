@@ -1,0 +1,39 @@
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Presentacion\bin\Debug\Entidades.dll
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Presentacion\bin\Debug\Logica.dll
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Presentacion\bin\Debug\Logica.pdb
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Presentacion\bin\Debug\Entidades.dll
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Presentacion\bin\Debug\Logica.dll
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Presentacion\bin\Debug\Logica.pdb
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\ESTUDIANTES\Downloads\AngendaTelefonica\Presentacion\obj\Debug\Presentacion.pdb
+D:\Diego Chinchilla\AgendaTelefonica1\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Diego Chinchilla\AgendaTelefonica1\Presentacion\bin\Debug\Presentacion.exe
+D:\Diego Chinchilla\AgendaTelefonica1\Presentacion\bin\Debug\Presentacion.pdb
+D:\Diego Chinchilla\AgendaTelefonica1\Presentacion\bin\Debug\Entidades.dll
+D:\Diego Chinchilla\AgendaTelefonica1\Presentacion\bin\Debug\Logica.dll
+D:\Diego Chinchilla\AgendaTelefonica1\Presentacion\bin\Debug\Entidades.pdb
+D:\Diego Chinchilla\AgendaTelefonica1\Presentacion\bin\Debug\Logica.pdb
+D:\Diego Chinchilla\AgendaTelefonica1\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Diego Chinchilla\AgendaTelefonica1\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+D:\Diego Chinchilla\AgendaTelefonica1\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Diego Chinchilla\AgendaTelefonica1\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Diego Chinchilla\AgendaTelefonica1\Presentacion\obj\Debug\Presentacion.exe
+D:\Diego Chinchilla\AgendaTelefonica1\Presentacion\obj\Debug\Presentacion.pdb

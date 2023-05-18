@@ -1,0 +1,7 @@
+Entity.Vehiculo;Entity.Persona
+abcdef;fz;fz;;berry;berry;est
+asdfgh;naiz;apie;yesith;chimas;estudiante
+2023ad;2020;cicla;bloquea;yesith;andres;profe
+qwerty;eee;carro;bloque b;27/03/2023 21:05:18;01/01/0001 0:00:0000:00:00;0jhon;sant;estu
+WW;WW;EE;WW;0;0WW;WW;WW
+SDF-321;2020;CARRO;BLOQUE A;0;0DIEGO;ARMANDO;ESTUDIANTE

@@ -1,0 +1,3 @@
+D:\Diego Chinchilla\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Diego Chinchilla\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+D:\Diego Chinchilla\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache

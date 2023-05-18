@@ -1,0 +1,15 @@
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Datos\bin\Debug\Datos.dll
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Datos\bin\Debug\Datos.pdb
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Datos\obj\Debug\Datos.dll
+C:\Users\zuzan\Desktop\ADRIANA\AngendaTelefonica\Datos\obj\Debug\Datos.pdb
+D:\Diego Chinchilla\AgendaTelefonica1\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Diego Chinchilla\AgendaTelefonica1\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Diego Chinchilla\AgendaTelefonica1\Datos\bin\Debug\Datos.dll
+D:\Diego Chinchilla\AgendaTelefonica1\Datos\bin\Debug\Datos.pdb
+D:\Diego Chinchilla\AgendaTelefonica1\Datos\bin\Debug\Entidades.dll
+D:\Diego Chinchilla\AgendaTelefonica1\Datos\bin\Debug\Entidades.pdb
+D:\Diego Chinchilla\AgendaTelefonica1\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\Diego Chinchilla\AgendaTelefonica1\Datos\obj\Debug\Datos.dll
+D:\Diego Chinchilla\AgendaTelefonica1\Datos\obj\Debug\Datos.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALCALDIA", "ALCALDIA.csproj", "{326D4032-1E83-4896-B258-13AC1636436A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{326D4032-1E83-4896-B258-13AC1636436A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{326D4032-1E83-4896-B258-13AC1636436A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{326D4032-1E83-4896-B258-13AC1636436A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{326D4032-1E83-4896-B258-13AC1636436A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F772595-CE59-47F7-98E8-FB713C1B684E}
+	EndGlobalSection
+EndGlobal
